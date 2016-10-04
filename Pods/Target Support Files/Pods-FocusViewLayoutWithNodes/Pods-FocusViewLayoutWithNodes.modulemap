@@ -1,0 +1,6 @@
+framework module Pods_FocusViewLayoutWithNodes {
+  umbrella header "Pods-FocusViewLayoutWithNodes-umbrella.h"
+
+  export *
+  module * { export * }
+}
